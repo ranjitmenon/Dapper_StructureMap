@@ -1,0 +1,16 @@
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\EP.SERVICE.dll
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\EP.SERVICE.pdb
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\obj\Debug\EP.SERVICE.csproj.CoreCompileInputs.cache
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\obj\Debug\EP.SERVICE.dll
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\obj\Debug\EP.SERVICE.pdb
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\obj\Debug\EP.SERVICE.csprojAssemblyReference.cache
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\EP.DAL.dll
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\EP.DTO.dll
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\EP.DAL.pdb
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\EP.DTO.pdb
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\obj\Debug\EP.SERVICE.csproj.CopyComplete
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\EP.DAL.dll.config
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\Dapper.dll
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\Dapper.xml
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\StructureMap.dll
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EP.WEB.API\EP.SERVICE\bin\Debug\StructureMap.xml
